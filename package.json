@@ -4,7 +4,7 @@
   "description": "A list of different references for javascript things",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --exec babel-node index.js",
+    "start": "nodemon --exec babel-node excercises/makeChange.js",
     "test": "mocha --require @babel/register"
   },
   "keywords": [],
